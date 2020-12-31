@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\GNAT\2020\bin\Lab_5_2_par\lab_5_2_par.gpr
+20201231075740 f4a1d42cf07e04bcf959c31e0e1074ed
+[BOUND OBJECT FILES]
+C:\GNAT\2020\bin\Lab_5_2_par\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\GNAT\2020\bin\Lab_5_2_par\obj\
+-LC:\GNAT\2020\bin\Lab_5_2_par\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnarl.a
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
